@@ -4,7 +4,7 @@ Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bo
 
 ## Skills
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
     <img src="/SKILL/wplogo.png" alt="Skill" width="80" height="auto" style="margin: 5px;" />
     <img src="/SKILL/seologo.png" alt="Skill" width="80" height="auto" style="margin: 5px;"/>
     <img src="/SKILL/Bootstraplogo.png" alt="Skill" width="80" height="auto" style="margin: 5px;"/>
