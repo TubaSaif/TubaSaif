@@ -1,16 +1,21 @@
-<p style="text-align: center;"><strong><span style="font-size: 30px;">Hi, I&apos;m Tuba Saif</span></strong></p>
-<p><span style='text-align: center; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255); font-size: 22px; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;'>Proficient Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bootstrap, JavaScript (including jQuery),Webpack, PHP, MySQL, DNS management, plugin development, API integration, and Git, dedicated to crafting seamless web experiences and maintaining high standards of quality and functionality.</span></p>
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [TUBA SAIF]! 👋
 
-I'm a [Full Stack Web Developer]  with expertise spanning WordPress, SEO, HTML5, CSS3, Bootstrap, JavaScript (including jQuery),Webpack, PHP, MySQL, DNS management, plugin development, API integration, and Git, dedicated to crafting seamless web experiences and maintaining high standards of quality and functionality.
+Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bootstrap, JavaScript (including jQuery),Webpack, PHP, MySQL, DNS management, plugin development, API integration, and Git, dedicated to crafting seamless web experiences and maintaining high standards of quality and functionality.
 
 ## Skills
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="/SKILL/wplogo.png" alt="Skill" width="100" />
-    <img src="link_to_skill_image" alt="Skill" width="100" />
-    <img src="link_to_skill_image" alt="Skill" width="100" />
-    <img src="link_to_skill_image" alt="Skill" width="100" />
+    <img src="/SKILL/wplogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/seologo.png" alt="Skill" width="80" />
+    <img src="/SKILL/Bootstraplogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/jquerylogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/webpacklogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/phplogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/Mysqllogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/MongoDBlogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/wpplugin.JPG" alt="Skill" width="80" />
+    <img src="/SKILL/wprestapilogo.png" alt="Skill" width="80" />
+    <img src="/SKILL/gitlogo.png" alt="Skill" width="80" />
 </div>
 
 ## Portfolio
