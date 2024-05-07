@@ -10,12 +10,12 @@ Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bo
     <img src="/SKILL/Bootstraplogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
     <img src="/SKILL/jquerylogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
     <img src="/SKILL/webpacklogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
-    <img src="/SKILL/phplogo.png" alt="Skill" width="60" height="40" style="margin: 2px;"/>
-    <img src="/SKILL/Mysqllogo.png" alt="Skill" width="60" height="40" style="margin: 2px;"/>
-    <img src="/SKILL/MongoDBlogo.png" alt="Skill" width="60" height="30" style="margin: 2px;"/>
-    <img src="/SKILL/wpplugin.JPG" alt="Skill" width="60" height="40" style="margin: 2px;"/>
-    <img src="/SKILL/wprestapilogo.png" alt="Skill" width="60" height="40" style="margin: 2px;"/>
-    <img src="/SKILL/gitlogo.png" alt="Skill" width="60" height="40" style="margin: 2px;"/>
+    <img src="/SKILL/phplogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
+    <img src="/SKILL/Mysqllogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
+    <img src="/SKILL/MongoDBlogo.png" alt="Skill" width="60" height="40" style="margin: 2px;"/>
+    <img src="/SKILL/wpplugin.JPG" alt="Skill" width="60" height="50" style="margin: 2px;"/>
+    <img src="/SKILL/wprestapilogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
+    <img src="/SKILL/gitlogo.png" alt="Skill" width="60" height="50" style="margin: 2px;"/>
 </div>
 
 ## Portfolio
