@@ -21,11 +21,11 @@ Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bo
 You can find me on,
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/saif-ul-islam-93786b187/](https://www.linkedin.com/in/tubasaif1210)"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tubasaif1210"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tubasaif718@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   
 </p>
-## Portfolio
+<h1 align="left">Personal Links</h1>
 
 Check out my portfolio <a href="https://tubasaif.github.io/">here</a>.
 
