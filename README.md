@@ -1,4 +1,4 @@
-# Hello, I'm [TUBA SAIF]! 👋
+# Hello, I'm TUBA SAIF 👋
 
 Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bootstrap, JavaScript (including jQuery),Webpack, PHP, MySQL, DNS management, plugin development, API integration, and Git, dedicated to crafting seamless web experiences and maintaining high standards of quality and functionality.
 
