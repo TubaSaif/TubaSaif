@@ -14,11 +14,11 @@ Full Stack Web Developer with expertise spanning WordPress, SEO, HTML5, CSS3, Bo
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img alt="REST API" src="https://img.shields.io/badge/REST%20API-%231967C1.svg?&style=for-the-badge&logo=api&logoColor=white"/>
+<img alt="WP REST API" src="https://img.shields.io/badge/REST%20API-%231967C1.svg?&style=for-the-badge&logo=api&logoColor=white"/>
 <img alt="Plugin Development" src="https://img.shields.io/badge/Plugin%20Development-%234D5A63.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white"/>
-
+<img alt="SEO" src="https://img.shields.io/badge/SEO-%2344cc52.svg?&style=for-the-badge&logo=seo&logoColor=white"/>
  </a>
 </p>
 
