@@ -31,7 +31,7 @@ You can find me on,
   <a href="mailto:tubasaif718@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   
 </p>
-<h1 align="left">Portfolio</h1>
+
 
 
 
