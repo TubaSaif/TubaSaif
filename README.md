@@ -33,6 +33,5 @@ You can find me on,
 </p>
 <h1 align="left">Portfolio</h1>
 
-Check out my portfolio <a href="https://tubasaif.github.io/">here</a>.
 
 
