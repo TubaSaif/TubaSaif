@@ -31,6 +31,7 @@ You can find me on,
   <a href="mailto:tubasaif718@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   
 </p>
+<a href="https://github.com/TubaSaif"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=tubasaif&style=flat-square" width="125"/></a>
 
 
 
