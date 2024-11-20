@@ -1,6 +1,6 @@
 # Full Stack Web Developer
 
-Full Stack Web Developer with expertise spanning WordPress, theme and plugin development, SEO, DNS management, HTML5, CSS3, Bootstrap, JavaScript (including jQuery), Webpack, Composer, PHP, MySQL, API integration, and Git.
+Full Stack Web Developer with expertise in WordPress development, including themes and plugins, SEO, DNS management, HTML5, CSS3, Bootstrap, JavaScript (including jQuery), Webpack, Composer, PHP, MySQL, API integration, Git, and modern development practices like React.js and Gutenberg block development.
 
 ---
 
@@ -26,8 +26,7 @@ Full Stack Web Developer with expertise spanning WordPress, theme and plugin dev
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="WP REST API" src="https://img.shields.io/badge/REST%20API-%231967C1.svg?&style=for-the-badge&logo=api&logoColor=white"/>
-<img alt="React.js" src="https://img.shields.io/badge/React.js%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/Gutenberg Block Dev..-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Gutenberg Block Dev." src="https://img.shields.io/badge/Gutenberg%20Block%20Dev.-%23777BB4.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> <img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
  </a>
 </p>
 
