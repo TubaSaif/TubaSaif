@@ -26,6 +26,8 @@ Full Stack Web Developer with expertise spanning WordPress, theme and plugin dev
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="WP REST API" src="https://img.shields.io/badge/REST%20API-%231967C1.svg?&style=for-the-badge&logo=api&logoColor=white"/>
+<img alt="React.js" src="https://img.shields.io/badge/React.js%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/Gutenberg Block Dev..-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
  </a>
 </p>
 
