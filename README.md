@@ -1,10 +1,10 @@
-# Full Stack Web Developer
+## Full Stack Web Developer
 
-Full Stack Web Developer with expertise in WordPress development, including themes and plugins, SEO, DNS management, HTML5, CSS3, Bootstrap, JavaScript (including jQuery), Webpack, Composer, PHP, MySQL, API integration, Git, and modern development practices like React.js and Gutenberg block development.
+Full Stack Web Developer with expertise in WordPress development, including themes and plugins, SEO, DNS management, HTML5, CSS3, Bootstrap, JavaScript (including jQuery), Webpack, Composer, PHP, MySQL, API integration, Git, and modern development practices like React.js, Gutenberg block development, Docker, Yii2 PHP framework, and GitHub Actions CI/CD pipelines.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="left">
  <a href="#">
@@ -26,13 +26,17 @@ Full Stack Web Developer with expertise in WordPress development, including them
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="WP REST API" src="https://img.shields.io/badge/REST%20API-%231967C1.svg?&style=for-the-badge&logo=api&logoColor=white"/>
-<img alt="Gutenberg Block Dev." src="https://img.shields.io/badge/Gutenberg%20Block%20Dev.-%23777BB4.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> <img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Gutenberg Block Dev." src="https://img.shields.io/badge/Gutenberg%20Block%20Dev.-%23777BB4.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> 
+<img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Yii2" src="https://img.shields.io/badge/Yii2-%2392C1F6.svg?&style=for-the-badge&logo=yii&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23171717.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
  </a>
 </p>
 
 ---
 
-<h1 align="left">Personal Links</h1>
+## Personal Links
 
 You can find me on:
 
@@ -42,7 +46,8 @@ You can find me on:
 </p>
 
 ---
-# GitHub Stats
+
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TubaSaif&show_icons=true&theme=radical" alt="GitHub Stats" />
