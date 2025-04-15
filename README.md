@@ -1,9 +1,4 @@
-## Full Stack Web Developer
-
-Full Stack Web Developer with expertise in WordPress development, including themes and plugins, SEO, DNS management, HTML5, CSS3, Bootstrap, JavaScript (including jQuery), Webpack, Composer, PHP, MySQL, API integration, Git, and modern development practices like React.js, Gutenberg block development, Docker, Yii2 PHP framework, and GitHub Actions CI/CD pipelines.
-
----
-
+I'm a full stack web developer, loves exploring new technologies and solving problems with smart, creative solutions.
 ## Tech Stack
 
 <p align="left">
@@ -45,13 +40,3 @@ You can find me on:
   <a href="mailto:tubasaif718@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TubaSaif&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubaSaif&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
