@@ -24,7 +24,6 @@ I'm a full stack web developer, loves exploring new technologies and solving pro
 <img alt="Gutenberg Block Dev." src="https://img.shields.io/badge/Gutenberg%20Block%20Dev.-%23777BB4.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> 
 <img alt="React.js" src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Yii2" src="https://img.shields.io/badge/Yii2-%2392C1F6.svg?&style=for-the-badge&logo=yii&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23171717.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
  </a>
 </p>
